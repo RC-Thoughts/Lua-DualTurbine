@@ -1,0 +1,18 @@
+{
+  "default":"en",
+  "en":{
+    "appName":"RCT-DualTurbine",
+    "labelSensor":"Sensor Settings",
+    "labelAlarm":"Alarm Settings",
+    "multi":"Sensor multiplicator",
+    "selSens1":"Rpm Sensor Left",
+    "selSens2":"Rpm Sensor Right",
+    "useSwitch":"Alarm Switch",
+    "alarmDiff":"Allowed rpm Difference x100",
+    "idleRPM":"Idle rpm x1000",
+    "maxRPM":"Max rpm x1000",
+    "alarmFileL":"Alarm Voice Left",
+    "alarmFileR":"Alarm Voice Right",
+    "noTurbine":"N/A"
+  }
+}
